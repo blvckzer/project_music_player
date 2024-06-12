@@ -1,5 +1,5 @@
 import Discover from './Discover';
-import TopArtists from './TopArtists';
+import TopArtists from './TopArtistS';
 import ArtistDetails from './ArtistDetails';
 import SongDetails from './SongDetails';
 import Search from './Search';
